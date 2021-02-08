@@ -4,4 +4,22 @@
 
 h1 {
   font-family: 'Acme', sans-serif;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-family: 'Acme', sans-serif;
+  margin-top: 0px;
+}
+
+.divider {
+  margin: 5px 0px 10px 0px;
+}
+
+.description {
+  margin: 0px 0px 10px 0px;
+}
+
+.marginBottom {
+  margin-bottom: 20px;
 }
